@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Gupta</h1>
-<h3 align="center">Machine Learning Researcher | Student @ IIITDM Kurnool | Research Engineer @ AnyTechPros</h3>
+<h3 align="center">Machine Learning Researcher | Student @ IIITDM Kurnool | AI operations Engineer @ AnyTechPros</h3>
 
 <p align="center">
   <em>Building research-grade models to solve real-world, complex problems.</em>
