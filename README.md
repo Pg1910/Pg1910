@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piyush Gupta</h1>
+<h1 align="center">Hi ,I'm Piyush</h1>
 <h3 align="center">Machine Learning Researcher | Student @ IIITDM Kurnool | AI operations Engineer @ AnyTechPros</h3>
 
 <p align="center">
